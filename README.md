@@ -19,6 +19,15 @@ Bar chart using Pandas:
 
 Bar chart using Pyplot:
 
+![image](https://github.com/CourtneyCole123/Pymaceuticals/assets/162069113/8ad83c9f-3e0c-45af-aa85-1beccf85243a)
+
+Pie chart using Pandas:
+
+
+
+Pie Chart using Pyplot:
+
+
 
 
 <pre>Calculate quartiles, find outliers, and create a box plot.</pre>

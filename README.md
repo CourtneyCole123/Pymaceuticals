@@ -27,7 +27,7 @@ Pie chart using Pandas:
 
 Pie Chart using Pyplot:
 
-
+![image](https://github.com/CourtneyCole123/Pymaceuticals/assets/162069113/37126b24-c0c4-4c89-9c55-b3be33aaa124)
 
 
 <pre>Calculate quartiles, find outliers, and create a box plot.</pre>

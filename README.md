@@ -23,7 +23,7 @@ Bar chart using Pyplot:
 
 Pie chart using Pandas:
 
-
+![image](https://github.com/CourtneyCole123/Pymaceuticals/assets/162069113/77c8aae4-9556-4545-b255-2349ffeb3e24)
 
 Pie Chart using Pyplot:
 

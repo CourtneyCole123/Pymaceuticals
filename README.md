@@ -14,6 +14,13 @@
 
 <pre>Create bar charts and pie charts.</pre>
 
+Bar chart using Pandas:
+![image](https://github.com/CourtneyCole123/Pymaceuticals/assets/162069113/9df0d817-1ded-4acc-870e-620190f18194)
+
+Bar chart using Pyplot:
+
+
+
 <pre>Calculate quartiles, find outliers, and create a box plot.</pre>
 
 <pre>Create a line plot and a scatter plot.</pre>
